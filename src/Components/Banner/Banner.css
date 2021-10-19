@@ -1,0 +1,8 @@
+.bann{
+    color: rgba(0,0,0,.4);
+}
+.pro{
+    background-image: linear-gradient(to left, rgba(245, 246, 252, 0.23), rgba(1, 0, 0, 0.83)),
+    url('../../images//slide1.jpg');
+    height: 450px;
+}
